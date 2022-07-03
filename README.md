@@ -1,1 +1,1 @@
-# Maxy
+# Maxy& "${Env:PROGRAMFILES(X86)}\Google\Chrome Remote Desktop\CurrentVersion\remoting_start_host.exe" --code="4/0AX4XfWjR8-yhYCTG1ChlhsHEyRDO8-z2mSl_G0at5r4nVHZxEC3hRQgKfrWrd57lHPG6IA" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$Env:COMPUTERNAME
